@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pt-weiterbildung": {
+      "type": "http",
+      "url": "https://www.pt-weiterbildung.de/mcp"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "pt-weiterbildung",
+  "displayName": "PT-Weiterbildung",
+  "version": "1.0.0",
+  "description": "Find training sites for the psychotherapy specialist training in Germany (Psychotherapie-Weiterbildung): search by city and radius, Bundesland, therapy method and application status, see what is new since a date, see how to apply, and get numbers and guides. Data from the lists of all 16 Landespsychotherapeutenkammern, updated daily by pt-weiterbildung.de.",
+  "author": {
+    "name": "Charlotte Stake & Calvin Asmus GbR (pt-weiterbildung.de)",
+    "email": "ptweiterbildung@gmail.com",
+    "url": "https://www.pt-weiterbildung.de"
+  },
+  "homepage": "https://www.pt-weiterbildung.de/ki-assistenten",
+  "repository": "https://github.com/calvin-as/pt-weiterbildung-ki-plugin",
+  "license": "MIT",
+  "keywords": [
+    "psychotherapie",
+    "weiterbildung",
+    "psychotherapy",
+    "training",
+    "germany",
+    "PiW",
+    "approbation",
+    "education",
+    "careers"
+  ]
+}
