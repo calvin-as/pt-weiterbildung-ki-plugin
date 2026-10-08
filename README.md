@@ -41,6 +41,8 @@ Connect the bundled PT-Weiterbildung connector (no account or sign-in needed). T
 
 In Claude and ChatGPT, search results also appear as cards with location, methods and application status.
 
+![Search results as cards: training sites within 40 km of Cologne](assets/screenshots/1-umkreissuche-koeln.png)
+
 ## Data
 
 The connector talks only to `https://www.pt-weiterbildung.de/mcp`. It sends the search parameters the assistant
